@@ -1,1 +1,2 @@
-Task 1 of My Data Science Internship at Prodigy Infotech 
+# PRODIGY_DS_01
+## Task 1 as a Data Science Intern at Prodigy InfoTech
